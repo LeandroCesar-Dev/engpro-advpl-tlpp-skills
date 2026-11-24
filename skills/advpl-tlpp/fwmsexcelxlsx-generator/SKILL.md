@@ -1,18 +1,6 @@
 ---
 name: fwmsexcelxlsx-generator
-description: >-
-  Gera customizações AdvPL/TLPP (sempre User Function) que exportam dados do
-  Protheus para planilha Excel .xlsx usando a classe de framework
-  FwMsExcelXlsx, padrão recomendado pela TOTVS — abas, tabelas, colunas com
-  alinhamento, formato, máscara e totalizador, fonte da planilha, gravação
-  direta em arquivo ou no banco para grandes volumes, verificação da
-  printer.exe e entrega do arquivo em SmartClient, WebApp ou job. A classe
-  legada FWMsExcelEx (XML 2003) só é usada quando o usuário pedir
-  explicitamente. Use quando o usuário pedir "exportar para Excel", "gerar
-  planilha", "gerar xlsx", "integração com Excel", "relatório em Excel",
-  "exportar consulta para planilha", "planilha com várias abas",
-  "FwMsExcelXlsx", "FWMsExcel", "FWMsExcelEx" ou "export to Excel AdvPL" —
-  mesmo que não cite nenhuma classe.
+description: Use when the user asks to export Protheus data to Excel, generate an .xlsx spreadsheet, build a multi-tab report, or create a spreadsheet integration flow in AdvPL/TLPP. Also use for requests that mention FwMsExcelXlsx, FWMsExcel, Excel export, report in Excel, or planilha em xlsx.
 license: MIT
 metadata:
   domain: Protheus

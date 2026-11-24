@@ -182,7 +182,7 @@
     },
     {
       "name": "fwmsexcelxlsx-generator",
-      "description": "Gera customizações AdvPL/TLPP (sempre User Function) que exportam dados do Protheus para planilha Excel .xlsx usando a classe de framework FwMsExcelXlsx, padrão recomendado pela TOTVS — abas, tabelas, colunas com alinhamento, formato e totalizador, fonte da planilha, gravação direta em arquivo ou no banco para grandes volumes, verificação da printer.exe e entrega em SmartClient, WebApp ou job. A classe legada FWMsExcelEx só é usada com pedido explícito. Use quando o usuário pedir 'exportar para Excel', 'gerar planilha', 'gerar xlsx', 'integração com Excel', 'relatório em Excel', 'planilha com várias abas', 'FwMsExcelXlsx', 'FWMsExcelEx'.",
+      "description": "Use when the user asks to export Protheus data to Excel, generate an .xlsx spreadsheet, build a multi-tab report, or create a spreadsheet integration flow in AdvPL/TLPP. Also use for requests that mention FwMsExcelXlsx, FWMsExcel, Excel export, report in Excel, or planilha em xlsx.",
       "category": "code-generation",
       "path": "advpl-tlpp/fwmsexcelxlsx-generator",
       "files": [
@@ -313,7 +313,7 @@
     },
     {
       "name": "brainstorming",
-      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "description": "Use when an idea is still fuzzy, before implementation starts, or when you need to turn a rough concept into a concrete design with requirements, trade-offs, and validation.",
       "category": "superpowers",
       "path": "superpowers/brainstorming",
       "files": [
